@@ -1,0 +1,12 @@
+1;Alternatif 
+2;Classique 
+3;Electro 
+4;Expérimental 
+5;Jazz 
+6;Metal 
+7;Musique du monde
+8;Rap 
+9;Rock 
+10;Variété Française 
+11;Variété Internationale
+12;Autres

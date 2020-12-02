@@ -1,0 +1,96 @@
+2020-10-06T07:18:44.062970Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2020-10-06T07:18:46.665285Z 0 [Warning] InnoDB: New log files created, LSN=45790
+2020-10-06T07:18:47.138906Z 0 [Warning] InnoDB: Creating foreign key constraint system tables.
+2020-10-06T07:18:47.342247Z 0 [Warning] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: 2ce5bfcd-07a4-11eb-9294-02004c4f4f50.
+2020-10-06T07:18:47.368174Z 0 [Warning] Gtid table is not ready to be used. Table 'mysql.gtid_executed' cannot be opened.
+2020-10-06T07:18:47.382408Z 1 [Warning] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2020-10-06T07:36:07.357534Z 0 [Warning] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2020-10-06T07:36:07.357794Z 0 [ERROR] Cannot open Windows EventLog; check privileges, or start server with --log_syslog=0
+2020-10-06T07:36:07.357816Z 0 [Note] C:\Programmes\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld (mysqld 5.7.24) starting as process 5320 ...
+2020-10-06T07:36:07.597528Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-10-06T07:36:07.646599Z 0 [Note] InnoDB: Uses event mutexes
+2020-10-06T07:36:07.683537Z 0 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2020-10-06T07:36:07.766479Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-10-06T07:36:07.802780Z 0 [Note] InnoDB: Number of pools: 1
+2020-10-06T07:36:07.835274Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2020-10-06T07:36:07.900927Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2020-10-06T07:36:07.975243Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-10-06T07:36:08.580277Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-10-06T07:36:08.661777Z 0 [Note] InnoDB: Log scan progressed past the checkpoint lsn 2591902
+2020-10-06T07:36:08.724319Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 2591911
+2020-10-06T07:36:08.780389Z 0 [Note] InnoDB: Database was not shutdown normally!
+2020-10-06T07:36:08.814580Z 0 [Note] InnoDB: Starting crash recovery.
+2020-10-06T07:36:10.325859Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-10-06T07:36:10.378115Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-10-06T07:36:10.423021Z 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-10-06T07:36:10.691534Z 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2020-10-06T07:36:10.793123Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2020-10-06T07:36:10.840347Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2020-10-06T07:36:10.883642Z 0 [Note] InnoDB: 5.7.24 started; log sequence number 2591911
+2020-10-06T07:36:10.919898Z 0 [Note] InnoDB: Loading buffer pool(s) from Z:\public_html\data\mysql\ib_buffer_pool
+2020-10-06T07:36:10.920025Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2020-10-06T07:36:11.199115Z 0 [Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+2020-10-06T07:36:11.264640Z 0 [Note] Server hostname (bind-address): '*'; port: 3306
+2020-10-06T07:36:11.300308Z 0 [Note] IPv6 is available.
+2020-10-06T07:36:11.323036Z 0 [Note]   - '::' resolves to '::';
+2020-10-06T07:36:11.348466Z 0 [Note] Server socket created on IP: '::'.
+2020-10-06T07:36:11.635706Z 0 [Note] InnoDB: Buffer pool(s) load completed at 201006  9:36:11
+2020-10-06T07:36:12.915935Z 0 [Note] C:\Programmes\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld: ready for connections.
+Version: '5.7.24'  socket: ''  port: 3306  MySQL Community Server (GPL)
+2020-10-06T07:36:14.634190Z 0 [Note] C:\Programmes\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld: Normal shutdown
+
+2020-10-06T07:36:14.703917Z 0 [Note] Giving 0 client threads a chance to die gracefully
+2020-10-06T07:36:14.752180Z 0 [Note] Shutting down slave threads
+2020-10-06T07:36:14.800093Z 0 [Note] Forcefully disconnecting 0 remaining clients
+2020-10-06T07:36:14.839976Z 0 [Note] Binlog end
+2020-10-06T07:36:16.364152Z 0 [Note] Shutting down plugin 'ngram'
+2020-10-06T07:36:16.426167Z 0 [Note] Shutting down plugin 'partition'
+2020-10-06T07:36:16.475738Z 0 [Note] Shutting down plugin 'BLACKHOLE'
+2020-10-06T07:36:16.515401Z 0 [Note] Shutting down plugin 'ARCHIVE'
+2020-10-06T07:36:16.549268Z 0 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2020-10-06T07:36:16.605478Z 0 [Note] Shutting down plugin 'MRG_MYISAM'
+2020-10-06T07:36:16.646413Z 0 [Note] Shutting down plugin 'MyISAM'
+2020-10-06T07:36:16.680911Z 0 [Note] Shutting down plugin 'INNODB_SYS_VIRTUAL'
+2020-10-06T07:36:16.713883Z 0 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2020-10-06T07:36:16.746225Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2020-10-06T07:36:16.778814Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2020-10-06T07:36:16.812541Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2020-10-06T07:36:16.844748Z 0 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2020-10-06T07:36:16.876995Z 0 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2020-10-06T07:36:16.910580Z 0 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2020-10-06T07:36:16.946617Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2020-10-06T07:36:16.983212Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2020-10-06T07:36:17.016533Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2020-10-06T07:36:17.053463Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2020-10-06T07:36:17.085814Z 0 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2020-10-06T07:36:17.118216Z 0 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2020-10-06T07:36:17.158826Z 0 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2020-10-06T07:36:17.201735Z 0 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2020-10-06T07:36:17.254062Z 0 [Note] Shutting down plugin 'INNODB_METRICS'
+2020-10-06T07:36:17.296788Z 0 [Note] Shutting down plugin 'INNODB_TEMP_TABLE_INFO'
+2020-10-06T07:36:17.335938Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2020-10-06T07:36:17.386590Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2020-10-06T07:36:17.422092Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2020-10-06T07:36:17.462855Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2020-10-06T07:36:17.515805Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2020-10-06T07:36:17.557089Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2020-10-06T07:36:17.607455Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2020-10-06T07:36:17.649297Z 0 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2020-10-06T07:36:17.690060Z 0 [Note] Shutting down plugin 'INNODB_CMP'
+2020-10-06T07:36:17.725947Z 0 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2020-10-06T07:36:17.764831Z 0 [Note] Shutting down plugin 'INNODB_LOCKS'
+2020-10-06T07:36:17.803039Z 0 [Note] Shutting down plugin 'INNODB_TRX'
+2020-10-06T07:36:17.843518Z 0 [Note] Shutting down plugin 'InnoDB'
+2020-10-06T07:36:17.891822Z 0 [Note] InnoDB: FTS optimize thread exiting.
+2020-10-06T07:36:17.922366Z 0 [Note] InnoDB: Starting shutdown...
+2020-10-06T07:36:18.065737Z 0 [Note] InnoDB: Dumping buffer pool(s) to Z:\public_html\data\mysql\ib_buffer_pool
+2020-10-06T07:36:18.201676Z 0 [Note] InnoDB: Buffer pool(s) dump completed at 201006  9:36:18
+2020-10-06T07:36:19.525911Z 0 [Note] InnoDB: Shutdown completed; log sequence number 2591939
+2020-10-06T07:36:19.599194Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-10-06T07:36:19.645312Z 0 [Note] Shutting down plugin 'MEMORY'
+2020-10-06T07:36:19.697867Z 0 [Note] Shutting down plugin 'CSV'
+2020-10-06T07:36:19.728119Z 0 [Note] Shutting down plugin 'sha256_password'
+2020-10-06T07:36:19.765868Z 0 [Note] Shutting down plugin 'mysql_native_password'
+2020-10-06T07:36:19.805363Z 0 [Note] Shutting down plugin 'binlog'
+2020-10-06T07:36:19.941558Z 0 [Note] C:\Programmes\laragon\bin\mysql\mysql-5.7.24-winx64\bin\mysqld: Shutdown complete
+

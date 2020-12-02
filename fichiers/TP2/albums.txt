@@ -1,0 +1,18 @@
+1;Live in Dublin;7;1;2004-01-01 
+2;Luna Park;7;1;2003-05-01 
+3;Live at Vicar St;7;1;2000-01-01 
+4;Lemonade & Buns;7;1;1999-01-01 
+5;Tóg é go Bog é;7;1;1997-01-01 
+6;Mind the Gap;7;1;1995-01-01 
+7;Handel’s Fantasy;7;1;1993-01-01 
+8;Collection Prestige;6;2;2005-06-01 
+9;Fear Not;6;2;2001-01-01 
+10;French Cancan;6;2;1999-01-01 
+11;The dawn;5;3;1998-01-01 
+12;The Walk Of The Giant Turtle;5;3;2003-04-01 
+13;Les Siamoises;10;4;2003-09-23 
+14;Y’a des cigales dans la fourmillière;10;5;2002-09-30 
+15;Qu’est-ce qu'on s'fait chier;10;6;2004-02-02 
+16;Sonate pour violon et piano n°1 & sonate pour violon seul (Bartok);2;7;2002-10-21 
+17;Alles is gut;11;8;1981-01-01 
+18;Tu l'as bien mérité;1;9;2009-08-10
