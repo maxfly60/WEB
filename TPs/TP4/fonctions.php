@@ -92,9 +92,10 @@ Flight::route("/profil", function(){
 });
 
 Flight::route("/success", function(){
-    if ($_SESSION['last_page'] != "POST /register") {
-        Flight::redirect("/");
-        return true;
-    }
+    //if ($_SESSION['last_page'] != "POST /register") {
+     //   Flight::redirect("/");
+      //  return true;
+    //}
+    
     Flight::render("templates/success.tpl", array());
 });
